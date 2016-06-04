@@ -1,0 +1,51 @@
+nav {
+  padding-top: 1%;
+  padding-bottom: 0.5%;
+  margin: auto;
+  width: 14.6%;
+}
+ .link {
+  margin-left: 10%;
+}
+h1 {
+  width: 40.7%;
+  margin: auto;
+  margin-top: 1%;
+}
+
+h3 {
+  width : 19.8%;
+  margin: auto;
+  margin-top: 2%;
+  margin-bottom: 1%;
+}
+h4 {
+  margin-bottom: 1%;
+}
+.witteAchtergrond {
+  width: 40%;
+  margin: auto;
+  margin-bottom: 1%;
+  padding: 1%;
+}
+p {
+  margin-top: 2%;
+}
+
+.gepost {
+  margin-top: 2%;
+}
+
+.archieflinks {
+  width: 15%;
+  margin: auto;
+}
+.archieflinks a {
+  margin-left: 5%;
+}
+.footer {
+  margin-left: 20%;
+  width: 60%;
+  margin-top: 2%;
+  margin-bottom: 5%;
+}
